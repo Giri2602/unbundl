@@ -45,6 +45,11 @@ From the provided Figma, the following **6 key sections** were developed:
 6. **Footer**
 
 ---
+##Pages:
+![image](https://github.com/user-attachments/assets/7504de90-2068-4160-9cd8-82c66e0a9c63)
+![image](https://github.com/user-attachments/assets/afaa9747-913e-4361-b1c2-4f42820be998)
+![image](https://github.com/user-attachments/assets/9dd002c3-a0c7-4e7e-8f89-1a9af7179504)
+
 
 ## 📱 Responsive Preview
 
